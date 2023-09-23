@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243158422989",
+    "project_id": "tirtham-583e9",
+    "storage_bucket": "tirtham-583e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243158422989:android:fce6086af77d8b5e8f6084",
+        "android_client_info": {
+          "package_name": "com.designike.tirtham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243158422989-pdk39t8g5i6u6bsf0mf19c8hi7gcvrct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnHAPREPwgMIR7tDMQyx_i5iCpA5WV0QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243158422989-pdk39t8g5i6u6bsf0mf19c8hi7gcvrct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
